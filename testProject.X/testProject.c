@@ -1,7 +1,8 @@
 //Projeto Teste - Trabalhando com a plataforma git
-// Quaisquer modificaÁıes podem ser realizadas aqui
+// Quaisquer modifica√ß√µes podem ser realizadas aqui
 #include "firstHeader.h"
 
 void main(){
-    //Coment·rio de carnava
+    //Coment√°rio de carnaval
+    //kkk mentira gosto de carnaval n√£o
 }
