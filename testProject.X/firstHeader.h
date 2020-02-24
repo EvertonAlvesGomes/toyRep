@@ -9,3 +9,5 @@
 #ifdef INCLINOMETRO
 	float angx = 0, angy = 0;
 #endif
+
+/* Este comentário foi feito pelo 'novoBranch' */
