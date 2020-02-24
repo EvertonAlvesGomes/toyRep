@@ -11,3 +11,7 @@
 #endif
 
 /* Este comentário foi feito pelo 'novoBranch' */
+
+/* (novoBranch) Ouvindo neste momento:
+- Artista: Green Day
+- Música: Junkies on a High */
