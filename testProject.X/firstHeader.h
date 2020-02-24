@@ -1,7 +1,7 @@
 //Primeiro arquivo header do projeto
 #define GITHUB
 //#define INCLINOMETRO
-//Este comentário foi feito pelo branch master
+//Este comentário foi feito pelo master
 #ifdef GITHUB
 	char c = 'a';
 	char a = 'c';
